@@ -1,4 +1,4 @@
-# Tip Calculator App
+# Unit Converter Android App
 ![Screenshot 1](assets/images/1.png)
 
 ## Table of Contents
