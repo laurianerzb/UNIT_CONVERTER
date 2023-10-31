@@ -24,7 +24,6 @@ it between various units of measurement, such as grams, kilograms, milligrams, a
 - Select source and target units from dropdown menus.
 - Calculate and display the conversion result.
 
-
 ## Installation
 1. Clone the repository:
    ```bash 
